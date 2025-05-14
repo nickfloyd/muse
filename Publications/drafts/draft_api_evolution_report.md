@@ -1,5 +1,7 @@
 **NOTE**: This is currently a draft of my thoughts on the ever changing needs of data access in a world now filled with AI.  I am aiming to help myself and others think into new data access approaches to new data needs.  
 
+**Draft note**: I think I will name this something like "Rethinking Data APIs for The Rise of the Agentic AI" or something rediculiiously sensational like that.
+
 # Evolving API Paradigms for an AI-Driven, Data-Intensive World
 
 ## Overview
